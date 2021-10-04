@@ -1,1 +1,1 @@
-# githuh-api-dio
+# github-api-dio
